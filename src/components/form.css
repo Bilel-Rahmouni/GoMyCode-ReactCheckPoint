@@ -1,0 +1,16 @@
+.form {
+  background-color: lightseagreen;
+  border-radius: 20px;
+  width: 40vw;
+  height: 85vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#exampleInputEmail1 {
+  width: 30vw;
+}
+#exampleInputPassword1 {
+  width: 30vw;
+}
